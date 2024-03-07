@@ -15,5 +15,7 @@ analytic.
 In the folder _executable_, one can find the **executable files** for Linux, Mac and Windows michines.
 AEP-Df* computes the distribution function, AEP-VaR* the Value-at-Risk
 
+**PLEASE READ THE USER GUIDE AVAILABLE IN ODF FORMAT**
+
 Notice that a new **Python** library including an implementation of the AEP algorithm 
 has been provided in https://github.com/gpitt71/gemact-code
